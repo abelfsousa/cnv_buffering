@@ -1,0 +1,10 @@
+# ignore folders
+data/
+files/
+r_workspaces/
+
+
+#ignore files
+.DS_Store
+._.DS_Store
+
